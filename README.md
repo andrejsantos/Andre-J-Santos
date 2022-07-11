@@ -8,7 +8,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="py" height="30" width="40" src="https://https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png" />
+  <img align="center" alt="py" height="30" width="40" src="https://https://drive.google.com/file/d/1mDA44GXksbpGJFroq7bnXAVUPBOLAorp/view?usp=sharing" />
 </div>
  
  <br>
