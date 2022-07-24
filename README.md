@@ -19,7 +19,7 @@
   <a href="https://instagram.com/andrejesus233" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andrejesus867@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-de-jesus-santos-680933213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href = "mailto:https://itch.io/dashboard"><img alt="Dose D' Game" height="28" width="110"src="https://cdn.arstechnica.net/wp-content/uploads/2021/05/itchio-logo-black.png"></a>
   ![Snake animation](https://github.com/andrejsantos/andrejsantos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
