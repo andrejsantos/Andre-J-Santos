@@ -40,6 +40,7 @@
             target="_blank"></a>
     <a href="https://tiodoramen0.itch.io/"><img alt="Dose D' Game" height="28" width="110"
             src="https://cdn.arstechnica.net/wp-content/uploads/2021/05/itchio-logo-black.png"></a>
-
-    ![Snake animation](https://github.com/andrejsantos/andrejsantos/blob/output/github-contribution-grid-snake.svg)
 </div>
+    
+![Snake animation](https://github.com/andrejsantos/andrejsantos/blob/output/github-contribution-grid-snake.svg)
+
