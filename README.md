@@ -1,4 +1,4 @@
-### Meu Progresso
+   <h2>Meu Progresso</h2>
 <div>
     <a href="https://github.com/andrejsantos">
         <img height="180em"
@@ -7,7 +7,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejsantos&layout=compact&langs_count=6&theme=gruvbox" />
 </div>
 
-### Tecnologias
+   <h3>Tecnologias</h3>
     
 <div style="display:inline_block"> <br>
     <img align="center" alt="Js" height="30" width="40"
@@ -27,7 +27,7 @@
 
 <br>
 
-### Minhas Redes
+   <h3>Minhas Redes</h3>
 
 <div>
     <a href="mailto:dosedgame@gmail.com"><img
