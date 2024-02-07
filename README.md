@@ -1,9 +1,9 @@
    <h2>Meu Progresso</h2>
 <div>
     <a href="https://github.com/andrejsantos">
-        <img height="180em"
+        <img height="200"
             src="https://github-readme-stats.vercel.app/api?username=andrejsantos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-        <img height="180em"
+        <img height="200"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejsantos&layout=compact&langs_count=6&theme=gruvbox" />
 </div>
 
@@ -30,7 +30,7 @@
    <h3>Minhas Redes</h3>
 
 <div>
-    <a href="mailto:dosedgame@gmail.com"><img
+    <a href="mailto:andrejesus867@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
             target="_blank"></a>
     <a href="https://www.linkedin.com/in/andr%C3%A9-de-jesus-santos-680933213/" target="_blank"><img
@@ -39,6 +39,4 @@
     <a href="https://tiodoramen0.itch.io/"><img alt="Dose D' Game" height="28" width="110"
             src="https://cdn.arstechnica.net/wp-content/uploads/2021/05/itchio-logo-black.png"></a>
 </div>
-    
-![Snake animation](https://github.com/andrejsantos/andrejsantos/blob/output/github-contribution-grid-snake.svg)
 
