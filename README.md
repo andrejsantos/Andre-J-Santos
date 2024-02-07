@@ -10,6 +10,7 @@
    <h3>Tecnologias</h3>
     
 <div style="display:inline_block"> <br>
+   <img align="center" alt="GML" height="30" width="30" src="https://www.svgrepo.com/show/373618/gamemaker2.svg" />
     <img align="center" alt="Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40"
@@ -18,7 +19,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="py" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="GML" height="30" width="30" src="https://www.svgrepo.com/show/373618/gamemaker2.svg" />
     <img align="center" alt="Java" height="40" width="45"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="C#" height="35" width="35"
