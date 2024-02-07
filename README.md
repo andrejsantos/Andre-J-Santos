@@ -1,9 +1,9 @@
    <h2>Meu Progresso</h2>
 <div>
     <a href="https://github.com/andrejsantos">
-        <img height="200"
+        <img height="180"
             src="https://github-readme-stats.vercel.app/api?username=andrejsantos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-        <img height="200"
+        <img height="180"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejsantos&layout=compact&langs_count=6&theme=gruvbox" />
 </div>
 
